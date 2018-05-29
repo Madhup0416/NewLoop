@@ -289,3 +289,6 @@ When all models are defined, the example generator performs steps that you
 would do manually when working on a new application: add more dependencies to
 package.json, extend the models with custom behaviour, implement unit-tests,
 etc.
+
+
+## Have added Slack channel and subscribed it
